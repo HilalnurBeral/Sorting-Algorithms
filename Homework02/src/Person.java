@@ -1,7 +1,6 @@
 //-----------------------------------------------------
 // Title: Sorting Person class
 // Author: Hilalnur Beral
-// ID:11549136358
 // Section: 1
 // Assignment: 2
 // Description: IDs are sorted in descending order in this class.
