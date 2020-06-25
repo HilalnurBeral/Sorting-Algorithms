@@ -1,7 +1,6 @@
 //-----------------------------------------------------
 // Title: Sorting tester class
 // Author: Hilalnur Beral
-// ID: 11549136358
 // Section: 2
 // Assignment: 2
 // Description: This class tests the execution times of algorithms
