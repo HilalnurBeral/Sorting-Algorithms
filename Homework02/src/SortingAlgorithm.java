@@ -2,7 +2,6 @@
 // -----------------------------------------------------
 // Title: Sorting
 // Author: Hilalnur Beral
-// ID: 11549136358
 // Section: 1
 // Assignment: 2
 // Description: Different sorting algorithms which is asked in our homework are implemented in this class.
